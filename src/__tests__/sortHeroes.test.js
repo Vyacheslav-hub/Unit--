@@ -14,5 +14,6 @@ test('should sort heroes by health in descending order', () => {
       { name: 'маг', health: 100 },
       { name: 'лучник', health: 80 },
       { name: 'мечник', health: 10 },
-    ]);
+    ],
+  );
 });
